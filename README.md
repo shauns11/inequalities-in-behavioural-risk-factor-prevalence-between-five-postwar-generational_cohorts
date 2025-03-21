@@ -15,6 +15,10 @@ Cross-sectional Health Survey for England data for participants aged 25-60 years
 ### Methods:
 Sex-specific analyses were conducted. Log-binomial regression models quantified the magnitude and direction of change in (i) prevalence ratios (PRs) between cohorts adjusting for age and deprivation, and (ii) deprivation-specific PRs within- and between-cohorts to examine changes in absolute and relative inequalities between generations.
 ### Results:
+In more recent cohorts, decreases in prevalence, independent of age and deprivation, were observed for current smoking, frequency of alcohol consumption and heavy drinking, resulting in decreasing absolute inequalities. However, obesity levels, particularly among females, reached their highest levels in the youngest 1980s cohort.
+
+Relative inequalities in current smoking (most- versus least-deprived quintiles) peaked in the 1950s cohort (Males: PR 2.79 (95% CI: 2.57-3.04); Females: PR 2.81 (95% CI: 2.60-3.05)), decreased in the 1960s cohort (Males: PR 2.00 (95% CI: 1.70-2.34); Females: PR 2.58 (95% CI: 2.40-2.77)), and remained stable thereafter. Inequalities in heavy smoking persisted over time among current smokers.
+
 
 ### Conclusion:
 
